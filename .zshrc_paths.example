@@ -1,0 +1,2 @@
+# Path to your oh-my-zsh installation.
+export ZSH="/path_to_my_home_directory/.oh-my-zsh"
