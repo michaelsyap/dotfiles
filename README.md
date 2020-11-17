@@ -1,7 +1,6 @@
 # Dotfiles
 
-This is my 
-
+My personalized dotfiles used in both bash & zsh.
 
 
 Work in progress:
